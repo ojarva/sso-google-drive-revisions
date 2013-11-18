@@ -1,0 +1,5 @@
+syntax: glob
+*.pid
+*.pyc
+.cache
+private/*
